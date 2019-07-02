@@ -1,0 +1,10 @@
+.padding-list{
+    padding-left: 40px;
+}
+
+.navbar-nav li a {
+    color:#f8f9fa;
+}
+.navbar-nav li :hover {
+    color: rgb(176, 179, 176);
+}
